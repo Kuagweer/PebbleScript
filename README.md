@@ -4,3 +4,5 @@ PebbleScript is a extender framework for the programming language B# that extend
 ## Explore this repository
 
 Requirements: [Requirements](https://github.com/Kuagweer/PebbleScript/blob/main/REQUIREMENTS)
+
+Tutorials: [Tutorials](https://github.com/Kuagweer/PebbleScript/blob/main/TUTORIAL.md)
