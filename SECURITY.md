@@ -6,6 +6,7 @@ Versions of PebbleScript that are currently supported with security updates are 
 
 | Version | Supported          |
 | ------- | ------------------ |
+| v1.01.0 | :white_check_mark: |
 | v1.00.1 | :white_check_mark: |
 | v1.00.0 | :white_check_mark: |
 
